@@ -4,12 +4,12 @@
 Economist with a focus on empirial methods and a passion for using data and statistical analysis to understand real-world problems.
 
 #### Education
--Student of Master's program in Economics at University of Los Andes.
+- Student of Master's program in Economics at University of Los Andes.
 - B.A. in Economics from University of Los Andes, Bogota Colombia.
 
 #### Work Experience
 - Research Assistant at Centro de Estudios para el Desarrollo Economico (CEDE), University of Los Andes.
--Eonometrics II class instructor at University of los Andes.
+- Eonometrics II class instructor at University of los Andes.
 
 #### Skills
 - Econometrics and data analysis using Stata and Python
